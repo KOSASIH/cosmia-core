@@ -1,15 +1,24 @@
+import { Transaction } from './transaction';
+
 class Block {
-  constructor(transactions, previousBlockHash) {
+  constructor(index, previousHash, transactions, timestamp) {
+    this.index = index;
+    this.previousHash = previousHash;
     this.transactions = transactions;
-    this.previousBlockHash = previousBlockHash;
+    this.timestamp = timestamp;
+    this.hash = this.calculateHash();
   }
 
-  validate() {
-    // Validate the block and ensure it meets the protocol's requirements
+  calculateHash() {
+    // Calculate the block's hash using a cryptographic algorithm
   }
 
-  process() {
-    // Process the block and update the chain state
+  validateTransactions() {
+    // Validate each transaction in the block
+  }
+
+  addTransaction(transaction) {
+    // Add a new transaction to the block
   }
 }
 
