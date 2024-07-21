@@ -1,20 +1,32 @@
 import { MongoClient } from 'mongodb';
+import { RedisClient } from 'redis';
 
 class Database {
-  constructor() {
-    this.client = new MongoClient('mongodb://localhost:27017', { useNewUrlParser: true, useUnifiedTopology: true });
+  constructor(mongoUrl, redisUrl) {
+    this.mongoClient = new MongoClient(mongoUrl);
+    this.redisClient = new RedisClient(redisUrl);
   }
 
-  async init() {
-    // Initialize the database and create collections
+  async connect() {
+    // Connect to MongoDB and Redis
+    await this.mongoClient.connect();
+    await this.redisClient.connect();
   }
 
-  async getChainState() {
-    // Retrieve the current chain state from the database
+  async disconnect() {
+    // Disconnect from MongoDB and Redis
+    await this.mongoClient.close();
+    await this.redisClient.quit();
   }
 
-  async storeTransaction() {
-    // Store a transaction in the database
+  async getMongoDB() {
+    // Return the MongoDB client
+    return this.mongoClient;
+  }
+
+  async getRedisClient() {
+    // Return the Redis client
+    return this.redisClient;
   }
 }
 
