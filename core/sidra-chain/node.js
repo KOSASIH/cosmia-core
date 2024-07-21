@@ -1,9 +1,9 @@
-import { SidraChain } from './chain';
+import { Consensus } from './consensus';
 
 class SidraNode {
   constructor() {
-    this.chain = new SidraChain();
-    this.network = null;
+    this.stake = 0;
+    this.consensus = new Consensus(this);
   }
 
   init() {
@@ -16,6 +16,18 @@ class SidraNode {
 
   sendMessage() {
     // Send messages to other nodes
+  }
+
+  updateStake(stake) {
+    // Update the node's stake
+  }
+
+  proposeBlock() {
+    // Propose a new block to the network
+  }
+
+  voteOnBlock(block) {
+    // Vote on a proposed block
   }
 }
 
