@@ -1,10 +1,12 @@
 import { SidraChain } from './chain';
 import { SidraNode } from './node';
+import { Consensus } from './consensus';
 
 class SidraProtocol {
   constructor(chain, node) {
     this.chain = chain;
     this.node = node;
+    this.consensus = new Consensus(node);
   }
 
   createBlock(transactions) {
@@ -20,7 +22,8 @@ class SidraProtocol {
   }
 
   achieveConsensus() {
-    // Implement a consensus mechanism to ensure network agreement
+    // Use the consensus mechanism to achieve agreement on a block
+    this.consensus.achieveConsensus();
   }
 }
 
