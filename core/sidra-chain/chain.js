@@ -1,21 +1,24 @@
-import { SIDRA_CHAIN_PROTOCOL_VERSION } from '../config/constants';
+import { SidraProtocol } from './protocol';
+import { Block } from './block';
 
 class SidraChain {
   constructor() {
     this.chain = [];
     this.currentBlock = null;
+    this.protocol = new SidraProtocol(this, new SidraNode());
   }
 
   init() {
     // Initialize the chain with a genesis block
   }
 
-  createBlock() {
-    // Create a new block and add it to the chain
+  createBlock(transactions) {
+    const block = new Block(transactions, this.currentBlock.hash);
+    this.protocol.createBlock(block);
   }
 
-  processTransaction() {
-    // Process a transaction and update the chain state
+  processTransaction(transaction) {
+    this.protocol.processTransaction(transaction);
   }
 }
 
