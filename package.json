@@ -1,7 +1,7 @@
 {
   "name": "cosmia-core",
   "version": "1.0.0",
-  "description": "The most advanced high-tech in the universe",
+  "description": "The central repository for the Cosmia project ( Project Cosmia is an ambitious initiative to develop the Sidra Chain, a revolutionary, high-tech network that interconnects stars and galaxies across the universe. By harnessing the power of advanced technologies, Cosmia aims to create a vast, celestial network that enables seamless communication, data exchange, and cooperation between diverse, intelligent life forms. This groundbreaking project will propel humanity to the forefront of intergalactic exploration, fostering a new era of cosmic collaboration, discovery, and progress ) , containing the core architecture and infrastructure for the Sidra Chain",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
