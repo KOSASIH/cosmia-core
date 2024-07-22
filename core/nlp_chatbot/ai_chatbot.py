@@ -1,5 +1,6 @@
-from nltk.tokenize import word_tokenize
 from nltk.sentiment import SentimentIntensityAnalyzer
+from nltk.tokenize import word_tokenize
+
 
 class AIChatbot:
     def __init__(self, dataset):
@@ -24,6 +25,7 @@ class AIChatbot:
     def analyze_sentiment(self, message):
         # Implement sentiment analysis using sentiment intensity analysis
         pass
+
 
 # Example usage
 chatbot = AIChatbot(" dataset.csv")

@@ -1,5 +1,6 @@
 import cupy
 
+
 class GPUCAccelerator:
     def __init__(self, gpu_id):
         self.gpu_id = gpu_id
@@ -16,6 +17,7 @@ class GPUCAccelerator:
     def convolutional_neural_network(self, inputs, weights):
         # Implement convolutional neural network using cuDNN
         pass
+
 
 # Example usage
 accelerator = GPUCAccelerator(0)
