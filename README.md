@@ -6,17 +6,16 @@
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/cosmia-core">Cosmia</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # cosmia-core
+
 The central repository for the Cosmia project, containing the core architecture and infrastructure for the Sidra Chain.
 
-Cosmia Core
-============
+# Cosmia Core
 
 The central repository for the Cosmia project, containing the core architecture and infrastructure for the Sidra Chain.
 
 Project Cosmia is an ambitious initiative to develop the Sidra Chain, a revolutionary, high-tech network that interconnects stars and galaxies across the universe. By harnessing the power of advanced technologies, Cosmia aims to create a vast, celestial network that enables seamless communication, data exchange, and cooperation between diverse, intelligent life forms. This groundbreaking project will propel humanity to the forefront of intergalactic exploration, fostering a new era of cosmic collaboration, discovery, and progress.
 
-Getting Started
----------------
+## Getting Started
 
 ### Installation
 
@@ -27,35 +26,33 @@ Getting Started
 
 1. Start the server: `npm start`
 
-API Endpoints
--------------
+## API Endpoints
 
 ### Register
 
-* **POST /register**
-	+ Request Body: `username`, `email`, `password`
-	+ Response: `201 Created` with a success message
+- **POST /register**
+  - Request Body: `username`, `email`, `password`
+  - Response: `201 Created` with a success message
 
 ### Login
 
-* **POST /login**
-	+ Request Body: `username`, `password`
-	+ Response: `200 OK` with a success message
+- **POST /login**
+  - Request Body: `username`, `password`
+  - Response: `200 OK` with a success message
 
 ### Send Message
 
-* **POST /send-message**
-	+ Request Body: `from`, `to`, `content`, `type`, `priority`
-	+ Response: `201 Created` with a success message
+- **POST /send-message**
+  - Request Body: `from`, `to`, `content`, `type`, `priority`
+  - Response: `201 Created` with a success message
 
 ### Get Messages
 
-* **GET /messages**
-	+ Query Parameter: `userId`
-	+ Response: `200 OK` with an array of messages
+- **GET /messages**
+  - Query Parameter: `userId`
+  - Response: `200 OK` with an array of messages
 
-License
--------
+## License
 
 Apache 2.0 License
 
