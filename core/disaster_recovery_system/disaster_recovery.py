@@ -1,4 +1,3 @@
-import os
 import time
 from google.cloud import storage
 
