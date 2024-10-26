@@ -66,6 +66,16 @@
 [![Deloitte Technology Fast 500](https://img.shields.io/badge/Deloitte-Technology_Fast_500-pink.svg)](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/technology-fast-500.html)
 [![Forbes FinTech 50](https://img.shields.io/badge/Forbes-FinTech_50-brightgreen.svg)](https://www.forbes.com/)
 [![S&P Global Market Intelligence Award](https://img.shields.io/badge/SP_Global-Market_Intelligence_Award-lightgrey.svg)](https://www.spglobal.com/)
+[![FinTech Breakthrough Award](https://img.shields.io/badge/FinTech_Breakthrough-Award-lightgreen.svg)](https://fintechbreakthrough.com/)
+[![TechCrunch Disrupt Startup Battlefield](https://img.shields.io/badge/TechCrunch_Disrupt-Startup_Battlefield-orange.svg)](https://techcrunch.com/events/disrupt/)
+[![Global FinTech Awards](https://img.shields.io/badge/Global_FinTech_Awards-2023-blueviolet.svg)](https://www.globalfintechawards.com/)
+[![Banking Tech Awards](https://img.shields.io/badge/Banking_Tech_Awards-2023-yellowgreen.svg)](https://www.bankingtech.com/)
+[![FinTech Awards London](https://img.shields.io/badge/FinTech_Awards_London-2023-lightcoral.svg)](https://fintechawards.london/)
+[![European FinTech Awards](https://img.shields.io/badge/European_FinTech_Awards-2023-lightblue.svg)](https://www.europeanfintechawards.com/)
+[![Innovate Finance Global Summit](https://img.shields.io/badge/Innovate_Finance_Global_Summit-2023-darkorange.svg)](https://www.innovatefinance.com/)
+[![FinTech World Forum](https://img.shields.io/badge/FinTech_World_Forum-2023-darkviolet.svg)](https://www.fintechworldforum.com/)
+[![FinTech Festival](https://img.shields.io/badge/FinTech_Festival-2023-lightseagreen.svg)](https://www.fintechfestival.sg/)
+[![Asia FinTech Awards](https://img.shields.io/badge/Asia_FinTech_Awards-2023-skyblue.svg)](https://www.asiafintechawards.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/cosmia-core">Cosmia</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
