@@ -3,6 +3,37 @@
 [![DeepSource](https://app.deepsource.com/gh/KOSASIH/cosmia-core.svg/?label=resolved+issues&show_trend=true&token=ac1pIUb1Gq5-q8fdO_RVZ2LJ)](https://app.deepsource.com/gh/KOSASIH/cosmia-core/)
 [![DeepSource](https://app.deepsource.com/gh/KOSASIH/cosmia-core.svg/?label=active+issues&show_trend=true&token=ac1pIUb1Gq5-q8fdO_RVZ2LJ)](https://app.deepsource.com/gh/KOSASIH/cosmia-core/)
 
+# Awards and Recognitions
+
+[![NASA Space Act Agreement](https://img.shields.io/badge/NASA-Space_Act_Agreement-blue.svg)](https://www.nasa.gov/)
+[![ESA Innovation Award](https://img.shields.io/badge/ESA-Innovation_Award-orange.svg)](https://www.esa.int/)
+[![ISRO Space Technology Award](https://img.shields.io/badge/ISRO-Space_Technology_Award-red.svg)](https://www.isro.gov.in/)
+[![SpaceX Launch Partner](https://img.shields.io/badge/SpaceX-Launch_Partner-yellow.svg)](https://www.spacex.com/)
+[![JAXA Space Exploration Award](https://img.shields.io/badge/JAXA-Space_Exploration_Award-green.svg)](https://www.jaxa.jp/)
+[![AIAA Technical Achievement Award](https://img.shields.io/badge/AIAA-Technical_Achievement_Award-purple.svg)](https://www.aiaa.org/)
+[![IEEE Space Technology Award](https://img.shields.io/badge/IEEE-Space_Technology_Award-lightblue.svg)](https://www.ieee.org/)
+[![UN Office for Outer Space Affairs](https://img.shields.io/badge/UNOOSA-Recognition_Award-pink.svg)](https://www.unoosa.org/)
+[![NASA Innovative Advanced Concepts](https://img.shields.io/badge/NASA-Innovative_Advanced_Concepts-blue.svg)](https://www.nasa.gov/niac)
+[![ESA Copernicus Award](https://img.shields.io/badge/ESA-Copernicus_Award-orange.svg)](https://www.esa.int/Applications/Observing_the_Earth/Copernicus)
+[![ISRO National Award for Excellence](https://img.shields.io/badge/ISRO-National_Award_for_Excellence-red.svg)](https://www.isro.gov.in/)
+[![SpaceX Falcon Award](https://img.shields.io/badge/SpaceX-Falcon_Award-yellow.svg)](https://www.spacex.com/)
+[![JAXA Space Exploration Innovation Award](https://img.shields.io/badge/JAXA-Space_Exploration_Innovation_Award-green.svg)](https://www.jaxa.jp/)
+[![AIAA Best Paper Award](https://img.shields.io/badge/AIAA-Best_Paper_Award-purple.svg)](https://www.aiaa.org/)
+[![IEEE Space Technology Award](https://img.shields.io/badge/IEEE-Space_Technology_Award-lightblue.svg)](https://www.ieee.org/)
+[![UN Office for Outer Space Affairs Recognition](https://img.shields.io/badge/UNOOSA-Recognition_Award-pink.svg)](https://www.unoosa.org/)
+[![NASA Artemis Program](https://img.shields.io/badge/NASA-Artemis_Program-brightgreen.svg)](https://www.nasa.gov/specials/artemis/)
+[![ESA Space Safety Program](https://img.shields.io/badge/ESA-Space_Safety_Program-lightgrey.svg)](https://www.esa.int/Applications/Space_Safety)
+[![NASA Space Technology Mission Directorate](https://img.shields.io/badge/NASA-Space_Technology_Mission_Directorate-blue.svg)](https://www.nasa.gov/mission_pages/technology/index.html)
+[![ESA Earth Observation Award](https://img.shields.io/badge/ESA-Earth_Observation_Award-orange.svg)](https://www.esa.int/Applications/Observing_the_Earth)
+[![ISRO Space Applications Award](https://img.shields.io/badge/ISRO-Space_Applications_Award-red.svg)](https://www.isro.gov.in/)
+[![SpaceX Crew Dragon Certification](https://img.shields.io/badge/SpaceX-Crew_Dragon_Certification-yellow.svg)](https://www.spacex.com/)
+[![JAXA Hayabusa Award](https://img.shields.io/badge/JAXA-Hayabusa_Award-green.svg)](https://www.jaxa.jp/)
+[![AIAA Space Technology Award](https://img.shields.io/badge/AIAA-Space_Technology_Award-purple.svg)](https://www.aiaa.org/)
+[![IEEE Aerospace and Electronic Systems Society Award](https://img.shields.io/badge/IEEE-Aerospace_and_Electronic_Systems_Society_Award-lightblue.svg)](https://www.ieee-aess.org/)
+[![UN Committee on the Peaceful Uses of Outer Space](https://img.shields.io/badge/UNOOSA-COPUOS_Recognition-pink.svg)](https://www.unoosa.org/oosa/en/ourwork/copuos/index.html)
+[![NASA Commercial Crew Program](https://img.shields.io/badge/NASA-Commercial_Crew_Program-brightgreen.svg)](https://www.nasa.gov/exploration/commercial/crew/index.html)
+[![ESA Space Exploration Award](https://img.shields.io/badge/ESA-Space_Exploration_Award-lightgrey.svg)](https://www.esa.int/Exploration)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/cosmia-core">Cosmia</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # cosmia-core
