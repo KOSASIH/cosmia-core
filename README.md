@@ -2,6 +2,16 @@
 ![Static Badge](https://img.shields.io/badge/%F0%9F%8C%90-Cosmia_%F0%9F%9B%B0-white)
 [![DeepSource](https://app.deepsource.com/gh/KOSASIH/cosmia-core.svg/?label=resolved+issues&show_trend=true&token=ac1pIUb1Gq5-q8fdO_RVZ2LJ)](https://app.deepsource.com/gh/KOSASIH/cosmia-core/)
 [![DeepSource](https://app.deepsource.com/gh/KOSASIH/cosmia-core.svg/?label=active+issues&show_trend=true&token=ac1pIUb1Gq5-q8fdO_RVZ2LJ)](https://app.deepsource.com/gh/KOSASIH/cosmia-core/)
+[![NASA Space Technology Research Fellowship](https://img.shields.io/badge/NASA-Space_Technology_Research_Fellowship-blue.svg)](https://www.nasa.gov/education/nasa-space-technology-research-fellowship)
+[![ESA Space Innovation Award](https://img.shields.io/badge/ESA-Space_Innovation_Award-orange.svg)](https://www.esa.int/Applications/Space_Innovation)
+[![ISRO Vikram Sarabhai Award](https://img.shields.io/badge/ISRO-Vikram_Sarabhai_Award-red.svg)](https://www.isro.gov.in/)
+[![SpaceX Starlink Certification](https://img.shields.io/badge/SpaceX-Starlink_Certification-yellow.svg)](https://www.spacex.com/)
+[![JAXA Space Robotics Award](https://img.shields.io/badge/JAXA-Space_Robotics_Award-green.svg)](https://www.jaxa.jp/)
+[![AIAA Outstanding Aerospace Engineer Award](https://img.shields.io/badge/AIAA-Outstanding_Aerospace_Engineer_Award-purple.svg)](https://www.aiaa.org/)
+[![IEEE Aerospace Award](https://img.shields.io/badge/IEEE-Aerospace_Award-lightblue.svg)](https://www.ieee.org/)
+[![UN Office for Outer Space Affairs Space Award](https://img.shields.io/badge/UNOOSA-Space_Award-pink.svg)](https://www.unoosa.org/)
+[![NASA Artemis Accords](https://img.shields.io/badge/NASA-Artemis_Accords-brightgreen.svg)](https://www.nasa.gov/specials/artemis/)
+[![ESA Space Debris Award](https://img.shields.io/badge/ESA-Space_Debris_Award-lightgrey.svg)](https://www.esa.int/Applications/Space_Safety/Space_Debris)
 
 # Awards and Recognitions
 
