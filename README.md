@@ -33,6 +33,29 @@
 [![UN Committee on the Peaceful Uses of Outer Space](https://img.shields.io/badge/UNOOSA-COPUOS_Recognition-pink.svg)](https://www.unoosa.org/oosa/en/ourwork/copuos/index.html)
 [![NASA Commercial Crew Program](https://img.shields.io/badge/NASA-Commercial_Crew_Program-brightgreen.svg)](https://www.nasa.gov/exploration/commercial/crew/index.html)
 [![ESA Space Exploration Award](https://img.shields.io/badge/ESA-Space_Exploration_Award-lightgrey.svg)](https://www.esa.int/Exploration)
+[![NASA Space Technology Mission Directorate](https://img.shields.io/badge/NASA-Space_Technology_Mission_Directorate-blue.svg)](https://www.nasa.gov/mission_pages/technology/index.html)
+[![ESA Earth Observation Award](https://img.shields.io/badge/ESA-Earth_Observation_Award-orange.svg)](https://www.esa.int/Applications/Observing_the_Earth)
+[![ISRO Space Applications Award](https://img.shields.io/badge/ISRO-Space_Applications_Award-red.svg)](https://www.isro.gov.in/)
+[![SpaceX Crew Dragon Certification](https://img.shields.io/badge/SpaceX-Crew_Dragon_Certification-yellow.svg)](https://www.spacex.com/)
+[![JAXA Hayabusa Award](https://img.shields.io/badge/JAXA-Hayabusa_Award-green.svg)](https://www.jaxa.jp/)
+[![AIAA Space Technology Award](https://img.shields.io/badge/AIAA-Space_Technology_Award-purple.svg)](https://www.aiaa.org/)
+[![IEEE Aerospace and Electronic Systems Society Award](https://img.shields.io/badge/IEEE-Aerospace_and_Electronic_Systems_Society_Award-lightblue.svg)](https://www.ieee-aess.org/)
+[![UN Committee on the Peaceful Uses of Outer Space](https://img.shields.io/badge/UNOOSA-COPUOS_Recognition-pink.svg)](https://www.unoosa.org/oosa/en/ourwork/copuos/index.html)
+[![NASA Commercial Crew Program](https://img.shields.io/badge/NASA-Commercial_Crew_Program-brightgreen.svg)](https://www.nasa.gov/exploration/commercial/crew/index.html)
+[![ESA Space Exploration Award](https://img.shields.io/badge/ESA-Space_Exploration_Award-lightgrey.svg)](https://www.esa.int/Exploration)
+
+# Finance Technology Awards and Recognitions
+
+[![FinTech Innovation Award](https://img.shields.io/badge/FinTech-Innovation_Award-blue.svg)](https://www.fintechinnovationawards.com/)
+[![Global Finance Best Digital Bank](https://img.shields.io/badge/Global_Finance-Best_Digital_Bank-orange.svg)](https://www.gfmag.com/)
+[![World Economic Forum FinTech Award](https://img.shields.io/badge/WEF-FinTech_Award-red.svg)](https://www.weforum.org/)
+[![International Finance Corporation Award](https://img.shields.io/badge/IFC-Award-yellow.svg)](https://www.ifc.org/)
+[![The Banker Technology Awards](https://img.shields.io/badge/The_Banker-Technology_Awards-green.svg)](https://www.thebanker.com/)
+[![Finovate Best of Show](https://img.shields.io/badge/Finovate-Best_of_Show-purple.svg)](https://finovate.com/)
+[![CIO Review Top 20 FinTech Companies](https://img.shields.io/badge/CIO_Review-Top_20_FinTech_Companies-lightblue.svg)](https://www.cioreview.com/)
+[![Deloitte Technology Fast 500](https://img.shields.io/badge/Deloitte-Technology_Fast_500-pink.svg)](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/technology-fast-500.html)
+[![Forbes FinTech 50](https://img.shields.io/badge/Forbes-FinTech_50-brightgreen.svg)](https://www.forbes.com/)
+[![S&P Global Market Intelligence Award](https://img.shields.io/badge/SP_Global-Market_Intelligence_Award-lightgrey.svg)](https://www.spglobal.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/cosmia-core">Cosmia</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
